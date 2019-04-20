@@ -1,0 +1,27 @@
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\bin\Debug\RealCrypt.exe.config
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\bin\Debug\RealCrypt.exe
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\bin\Debug\RealCrypt.pdb
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.Form1.resources
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.Properties.Resources.resources
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.csproj.GenerateResource.Cache
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.exe
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.pdb
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\bin\Debug\RealCrypt.exe.config
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.exe
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.pdb
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\bin\Debug\RealCrypt.exe
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\bin\Debug\RealCrypt.pdb
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.Form1.resources
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\RealCrypt\RealCrypt\obj\Debug\RealCrypt.csproj.GenerateResource.Cache
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\bin\Debug\RealCrypt.exe.config
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\bin\Debug\RealCrypt.exe
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\bin\Debug\RealCrypt.pdb
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\obj\Debug\RealCrypt.Form1.resources
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\obj\Debug\RealCrypt.Properties.Resources.resources
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\obj\Debug\RealCrypt.csproj.GenerateResource.cache
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\obj\Debug\RealCrypt.csproj.CoreCompileInputs.cache
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\obj\Debug\RealCrypt.exe
+C:\CODING\C#\RealCrypt\RealCrypt — копия\RealCrypt\obj\Debug\RealCrypt.pdb
